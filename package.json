@@ -1,0 +1,25 @@
+{
+  "name": "easy_user",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phalanstere/easy_user.git"
+  },
+  "description": "user_management",
+  "main": "server/easy_user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user_management",
+    "user"
+  ],
+  "author": "M. Burckhardt",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.6.0",
+  },
+  "devDependencies": {
+
+  }
+}
