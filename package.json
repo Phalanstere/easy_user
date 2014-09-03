@@ -1,25 +1,13 @@
-{
-  "name": "easy_user",
-  "version": "0.0.0",
+{ "name" : "easy_user"
+, "version" : "0.0.1"
+, "description" : "A simple user management system, client and server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Phalanstere/easy_user.git"
+    "url": "https://github.com/Phalanstere/easy_user"
   },
-  "description": "user_management",
-  "main": "server/easy_user.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "user_management",
-    "user"
-  ],
-  "author": "M. Burckhardt",
-  "license": "MIT",
+  "homepage": "https://github.com/Phalanstere/easy_user",
   "dependencies": {
-    "underscore": "^1.6.0",
-  },
-  "devDependencies": {
-
+	"nodemailer": "^1.2.1"
   }
+
 }
